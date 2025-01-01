@@ -45,11 +45,9 @@ I'm a passionate programmer with experience across various development fields, f
 
 ---
 
-### 📈 Contribution Graph
-
 ### 📅 Streak Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=efocor&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Efocor&theme=radical)
 
 ---
 
