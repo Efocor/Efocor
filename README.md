@@ -45,12 +45,6 @@ I'm a passionate programmer with experience across various development fields, f
 
 ---
 
-### 🌌 GitHub Skyline
-
-[![GitHub Skyline](https://skyline.github.com/Efocor/2023)](https://skyline.github.com/Efocor/2023)
-
----
-
 ### 🌐 Website Status
 
 ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ffecoro.cl&style=for-the-badge)
