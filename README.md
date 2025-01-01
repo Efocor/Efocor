@@ -47,13 +47,15 @@ I'm a passionate programmer with experience across various development fields, f
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=efocor&theme=github)
+### 📅 Streak Stats
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=efocor&theme=radical)
 
 ---
 
-### 🎨 Random Dev Meme
+### 🌐 Website Status
 
-![Meme](https://random-memer.herokuapp.com/)
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ffecoro.cl&style=for-the-badge)
 
 ---
 
