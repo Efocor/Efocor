@@ -20,7 +20,7 @@ I'm a passionate programmer with experience across various development fields, f
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efocor&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efocor&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </div>
 
 ---
