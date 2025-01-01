@@ -45,9 +45,9 @@ I'm a passionate programmer with experience across various development fields, f
 
 ---
 
-### 📅 Streak Stats
+### 🌌 GitHub Skyline
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Efocor&theme=radical)
+[![GitHub Skyline](https://skyline.github.com/efocor/2023)](https://skyline.github.com/efocor/2023)
 
 ---
 
