@@ -20,8 +20,7 @@ I'm a passionate programmer with experience across various development fields, f
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efocor&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -48,7 +47,7 @@ I'm a passionate programmer with experience across various development fields, f
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tuusuario&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Efocor&theme=github)
 
 ---
 
