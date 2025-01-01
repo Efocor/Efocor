@@ -27,19 +27,19 @@ I'm a passionate programmer with experience across various development fields, f
 
 ### 🚧 Projects in Progress
 
-- **[PhotonPlayground](https://github.com/tuusuario/PhotonPlayground)**  
+- **[PhotonPlayground](https://github.com/Efocor/PhotonPlayground)**  
   _Raytracing, raycasting, and light simulation implementations._  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-- **[FLUISIMS](https://github.com/tuusuario/FLUISIMS)**  
+- **[FLUISIMS](https://github.com/Efocor/FLUISIMS)**  
   _Interactive fluid flow simulators (Navier-Stokes)._  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **[FETRIS](https://github.com/tuusuario/FETRIS)**  
+- **[FETRIS](https://github.com/Efocor/FETRIS)**  
   _Tetris game built in Go._  
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-- **[FigEDIT](https://github.com/tuusuario/FigEDIT)**  
+- **[FigEDIT](https://github.com/Efocor/FigEDIT)**  
   _2D shape editor with GUI._  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -47,7 +47,7 @@ I'm a passionate programmer with experience across various development fields, f
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Efocor&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=efocor&theme=github)
 
 ---
 
