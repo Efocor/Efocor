@@ -9,7 +9,7 @@ Hi! I'm a passionate engineer with experience across various development fields,
 ### 🧰 Technologies & Languages:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-FF6347?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-cf4e64?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00BFFF?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white" />
