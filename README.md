@@ -25,7 +25,7 @@ Hi! I'm a passionate engineer with experience across various development fields,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efocor&layout=compact&theme=midnight-purple&hide=jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efocor&layout=compact&theme=github-dark-dimmed&hide=jupyter%20notebook" />
 </div>
 
 ---
