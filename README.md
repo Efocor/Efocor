@@ -50,7 +50,7 @@ Hi! I'm a passionate engineer with experience across various development fields,
 
 ---
 
-### 🌐 Website Status
+### 🌐 My Website Status
 
 ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ffecoro.cl&style=for-the-badge)
 
