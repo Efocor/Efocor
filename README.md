@@ -60,7 +60,7 @@ Hi! I'm a passionate engineer with experience across various development fields,
 
 - **LinkedIn:** [My LinkedIn](https://linkedin.com/in/feri-reixi)  
 - **Email:** felipe.correa@fecoro.cl  
-- **Portfolio:** [fecoro.github.io](https://fecoro.cl)
+- **Portfolio:** [fecoro.cl](https://fecoro.cl)
 
 ---
 
