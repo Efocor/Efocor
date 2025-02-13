@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Game Dev | Simulation & Graphics Enthusiast
 
-Hi! I'm a passionate engineer with experience across various development fields, from game creation to physical simulations and interactive tools, also a musician and a writer. I love exploring new technologies, servers and tackling creative challenges by blending art, math, and programming or other things.
+Hi! I'm a passionate engineer with experience across various development fields, from game creation to physical simulations and interactive tools, also a musician and a writer. I love exploring new technologies, servers and tackling creative challenges by blending art, math, history and programming or other things.
 
 ---
 
